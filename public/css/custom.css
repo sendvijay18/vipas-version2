@@ -311,8 +311,8 @@ html {
     -moz-box-shadow: 1px 0px 3px 0 #ddd;
 }
 .service-feature-box .service-media a {
-    background: rgb(232, 82, 51);
-    background: linear-gradient(61deg, rgba(232, 82, 51, 1) 6%, rgba(231, 114, 39, 1) 94%);
+    background: rgb(74, 219, 135);
+    background: linear-gradient(61deg, rgb(74, 219, 135) 6%, rgb(74, 219, 135) 94%);
     position: absolute;
     bottom: 0;
     right: 0;

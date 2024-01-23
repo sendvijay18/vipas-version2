@@ -508,16 +508,16 @@
   }
 
   .mobile-navigation-icon.white-md-icon:hover i {
-    background-color: #D34e2b;
+    /* background-color: #D34e2b; */
   }
 
   .mobile-navigation-icon.white-md-icon:hover i:before {
     width: 80%;
-    background-color: #D34e2b;
+    /* background-color: #D34e2b; */
   }
 
   .mobile-navigation-icon.white-md-icon:hover i:after {
-    background-color: #D34e2b;
+    /* background-color: #D34e2b; */
     width: 60%;
   }
   .header-top-info-slider-werap {
