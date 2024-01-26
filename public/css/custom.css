@@ -57,7 +57,7 @@ span.LfSciIcon i {
 
 
 .site-wrapper-reveal {
-    border-bottom: 4px solid #D34e2b
+    border-bottom: 4px solid #00a893
 }
 
 .banner-slider .carousel-indicators {
@@ -65,7 +65,7 @@ span.LfSciIcon i {
 }
 
 .text-danger {
-    color: #D34e2b !important
+    color: #00a893 !important
 }
 html {
     scroll-behavior: smooth;
