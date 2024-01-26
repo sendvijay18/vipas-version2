@@ -1331,7 +1331,7 @@ input[type="checkbox"] {
   -webkit-flex-basis: 20%;
   -ms-flex-preferred-size: 20%;
   flex-basis: 20%;
-  padding: 14px 0;
+  /* padding: 14px 0; */
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1346,7 +1346,7 @@ input[type="checkbox"] {
 }
 
 .header__logo.top-logo {
-  padding: 25px 0;
+  padding: 0px 0;
 }
 
 .header__logo>a img {
