@@ -10,7 +10,7 @@ body {
 
 .header-area {
     background-color: #fff;
-    border-top: 5px solid #e85233;
+    border-top: 5px solid #00a893;
 }
 
 .footer-widget__logo img {
@@ -763,7 +763,7 @@ object-fit: cover;
     /* width: 422px; */
     font-size: 28px;
     font-weight: 700;
-    border-left: 4px solid #e85233;
+    border-left: 4px solid #00a893;
     padding-left: 33px;
     margin-bottom: 40px;
 }

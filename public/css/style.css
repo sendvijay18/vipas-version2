@@ -302,7 +302,7 @@ select:focus {
 
 ::selection {
   color: #ffffff;
-  background-color: #e85631;
+  background-color: #00a893;
 }
 
 form {
@@ -2396,7 +2396,7 @@ ul.footer-widget__list {
 
 .footer-widget__title {
   margin-top: -3px;
-  color: #cb6826;
+  color: #00a893;
 }
 
 .footer-widget__list li {
