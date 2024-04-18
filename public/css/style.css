@@ -19,7 +19,7 @@ body {
   font-style: normal;
   font-weight: 400;
   visibility: visible;
-  font-family: "CerebriSans";
+  font-family: "Roboto";
   color: #000;
   position: relative;
   background-color: #ffffff;
@@ -36,7 +36,7 @@ h4,
 h5,
 h6 {
   color: #333333;
-  font-family: "CerebriSans";
+  font-family: "Roboto";
   font-weight: 700;
   margin-top: 0;
   margin-bottom: 0;
